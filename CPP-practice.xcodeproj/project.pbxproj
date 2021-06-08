@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB93C30C266EEC4300C3AE8F /* ex16.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB93C307266EEC4200C3AE8F /* ex16.cpp */; };
+		AB93C30D266EEC4300C3AE8F /* ex20.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB93C308266EEC4200C3AE8F /* ex20.cpp */; };
+		AB93C30E266EEC4300C3AE8F /* ex17.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB93C309266EEC4200C3AE8F /* ex17.cpp */; };
+		AB93C30F266EEC4300C3AE8F /* ex18.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB93C30A266EEC4300C3AE8F /* ex18.cpp */; };
+		AB93C310266EEC4300C3AE8F /* ex19.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB93C30B266EEC4300C3AE8F /* ex19.cpp */; };
 		ABCA649E2662801C00E57578 /* ex14.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABCA648E2662801A00E57578 /* ex14.cpp */; };
 		ABCA649F2662801C00E57578 /* ex8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABCA648F2662801A00E57578 /* ex8.cpp */; };
 		ABCA64A02662801C00E57578 /* ex2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABCA64912662801A00E57578 /* ex2.cpp */; };
@@ -37,6 +42,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		AB93C307266EEC4200C3AE8F /* ex16.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ex16.cpp; sourceTree = "<group>"; };
+		AB93C308266EEC4200C3AE8F /* ex20.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ex20.cpp; sourceTree = "<group>"; };
+		AB93C309266EEC4200C3AE8F /* ex17.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ex17.cpp; sourceTree = "<group>"; };
+		AB93C30A266EEC4300C3AE8F /* ex18.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ex18.cpp; sourceTree = "<group>"; };
+		AB93C30B266EEC4300C3AE8F /* ex19.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ex19.cpp; sourceTree = "<group>"; };
 		ABCA64842662800700E57578 /* CPP-practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CPP-practice"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABCA648E2662801A00E57578 /* ex14.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ex14.cpp; sourceTree = "<group>"; };
 		ABCA648F2662801A00E57578 /* ex8.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ex8.cpp; sourceTree = "<group>"; };
@@ -102,6 +112,11 @@
 				ABCA64982662801B00E57578 /* ex13.cpp */,
 				ABCA648E2662801A00E57578 /* ex14.cpp */,
 				ABCA649C2662801C00E57578 /* ex15.cpp */,
+				AB93C307266EEC4200C3AE8F /* ex16.cpp */,
+				AB93C309266EEC4200C3AE8F /* ex17.cpp */,
+				AB93C30A266EEC4300C3AE8F /* ex18.cpp */,
+				AB93C30B266EEC4300C3AE8F /* ex19.cpp */,
+				AB93C308266EEC4200C3AE8F /* ex20.cpp */,
 			);
 			path = "CPP-practice";
 			sourceTree = "<group>";
@@ -164,17 +179,22 @@
 			files = (
 				ABCA649F2662801C00E57578 /* ex8.cpp in Sources */,
 				ABCA64AA2662801C00E57578 /* ex4.cpp in Sources */,
+				AB93C30E266EEC4300C3AE8F /* ex17.cpp in Sources */,
 				ABCA64A42662801C00E57578 /* ex12.cpp in Sources */,
+				AB93C30D266EEC4300C3AE8F /* ex20.cpp in Sources */,
 				ABCA64A52662801C00E57578 /* ex6.cpp in Sources */,
 				ABCA64A12662801C00E57578 /* ex1.cpp in Sources */,
 				ABCA64A32662801C00E57578 /* ex9.cpp in Sources */,
+				AB93C310266EEC4300C3AE8F /* ex19.cpp in Sources */,
 				ABCA64A82662801C00E57578 /* ex5.cpp in Sources */,
 				ABCA64AC2662801C00E57578 /* ex3.cpp in Sources */,
 				ABCA64AB2662801C00E57578 /* ex15.cpp in Sources */,
 				ABCA64A62662801C00E57578 /* ex7.cpp in Sources */,
 				ABCA64A92662801C00E57578 /* ex11.cpp in Sources */,
+				AB93C30F266EEC4300C3AE8F /* ex18.cpp in Sources */,
 				ABCA64A72662801C00E57578 /* ex13.cpp in Sources */,
 				ABCA649E2662801C00E57578 /* ex14.cpp in Sources */,
+				AB93C30C266EEC4300C3AE8F /* ex16.cpp in Sources */,
 				ABCA64A02662801C00E57578 /* ex2.cpp in Sources */,
 				ABCA64A22662801C00E57578 /* ex10.cpp in Sources */,
 			);
